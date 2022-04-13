@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\bin\Debug\017_scoreCalc.exe.config
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\bin\Debug\017_scoreCalc.exe
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\bin\Debug\017_scoreCalc.pdb
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\_017_scoreCalc.Form1.resources
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\_017_scoreCalc.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.exe
+C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.pdb

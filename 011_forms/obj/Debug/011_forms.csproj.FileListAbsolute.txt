@@ -1,0 +1,12 @@
+C:\Users\807PC02\source\repos\VP01\011_forms\bin\Debug\011_forms.exe.config
+C:\Users\807PC02\source\repos\VP01\011_forms\bin\Debug\011_forms.exe
+C:\Users\807PC02\source\repos\VP01\011_forms\bin\Debug\011_forms.pdb
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\_011_forms.Form1.resources
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\_011_forms.Form2.resources
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\_011_forms.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.exe
+C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.pdb

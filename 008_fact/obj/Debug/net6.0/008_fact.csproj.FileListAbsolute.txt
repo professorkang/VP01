@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP01\008_fact\bin\Debug\net6.0\008_fact.exe
+C:\Users\807PC02\source\repos\VP01\008_fact\bin\Debug\net6.0\008_fact.deps.json
+C:\Users\807PC02\source\repos\VP01\008_fact\bin\Debug\net6.0\008_fact.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP01\008_fact\bin\Debug\net6.0\008_fact.dll
+C:\Users\807PC02\source\repos\VP01\008_fact\bin\Debug\net6.0\008_fact.pdb
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.dll
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\refint\008_fact.dll
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.pdb
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\ref\008_fact.dll

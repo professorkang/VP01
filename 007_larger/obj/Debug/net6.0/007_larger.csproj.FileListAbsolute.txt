@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP01\007_larger\bin\Debug\net6.0\007_larger.exe
+C:\Users\807PC02\source\repos\VP01\007_larger\bin\Debug\net6.0\007_larger.deps.json
+C:\Users\807PC02\source\repos\VP01\007_larger\bin\Debug\net6.0\007_larger.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP01\007_larger\bin\Debug\net6.0\007_larger.dll
+C:\Users\807PC02\source\repos\VP01\007_larger\bin\Debug\net6.0\007_larger.pdb
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.dll
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\refint\007_larger.dll
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.pdb
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\007_larger.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP01\007_larger\obj\Debug\net6.0\ref\007_larger.dll

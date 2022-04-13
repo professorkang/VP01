@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\021_score_calc.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\021_score_calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\_021_score_calc.Form1.resources
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\_021_score_calc.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\021_score_calc.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\021_score_calc.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\021_score_calc\bin\Debug\021_score_calc.exe.config
+C:\Users\807PC02\source\repos\VP01\021_score_calc\bin\Debug\021_score_calc.exe
+C:\Users\807PC02\source\repos\VP01\021_score_calc\bin\Debug\021_score_calc.pdb
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\021_score_calc.exe
+C:\Users\807PC02\source\repos\VP01\021_score_calc\obj\Debug\021_score_calc.pdb

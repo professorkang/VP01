@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\bin\Debug\018_scrollbar.exe.config
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\bin\Debug\018_scrollbar.exe
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\bin\Debug\018_scrollbar.pdb
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\_018_scrollbar.Form1.resources
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\_018_scrollbar.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.exe
+C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.pdb

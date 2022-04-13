@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP01\013_basic\bin\Debug\013_basic.exe.config
+C:\Users\807PC02\source\repos\VP01\013_basic\bin\Debug\013_basic.exe
+C:\Users\807PC02\source\repos\VP01\013_basic\bin\Debug\013_basic.pdb
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\013_basic.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\013_basic.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\_013_basic.Form1.resources
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\_013_basic.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\013_basic.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\013_basic.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\013_basic.exe
+C:\Users\807PC02\source\repos\VP01\013_basic\obj\Debug\013_basic.pdb

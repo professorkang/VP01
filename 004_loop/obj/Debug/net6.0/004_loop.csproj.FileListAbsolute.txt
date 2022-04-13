@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP01\004_loop\bin\Debug\net6.0\004_loop.exe
+C:\Users\807PC02\source\repos\VP01\004_loop\bin\Debug\net6.0\004_loop.deps.json
+C:\Users\807PC02\source\repos\VP01\004_loop\bin\Debug\net6.0\004_loop.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP01\004_loop\bin\Debug\net6.0\004_loop.dll
+C:\Users\807PC02\source\repos\VP01\004_loop\bin\Debug\net6.0\004_loop.pdb
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.dll
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\refint\004_loop.dll
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.pdb
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\ref\004_loop.dll
