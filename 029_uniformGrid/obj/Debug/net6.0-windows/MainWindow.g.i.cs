@@ -53,7 +53,7 @@ namespace _029_uniformGrid {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/029_uniformGrid;V1.0.0.0;component/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/029_uniformGrid;component/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
