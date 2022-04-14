@@ -207,6 +207,7 @@ namespace _031_WindowsCalc
     private void btnMMinus_Click(object sender, RoutedEventArgs e)
     {
       memory -= double.Parse(txtResult.Text);
+
     }
   }
 }
