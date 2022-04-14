@@ -28,6 +28,8 @@ namespace _031_WindowsCalc
     public MainWindow()
     {
       InitializeComponent();
+      btnMC.IsEnabled = false;
+      btnMR.IsEnabled = false;
     }
 
     private void btn_Click(object sender, RoutedEventArgs e)
@@ -90,6 +92,82 @@ namespace _031_WindowsCalc
         return;
       else
         txtResult.Text += ".";
+    }
+
+    // +- 버튼
+    private void btnPlusMinus_Click(object sender, RoutedEventArgs e)
+    {
+      txtResult.Text = 
+        (-1 * double.Parse(txtResult.Text)).ToString();
+    }
+
+    // %버튼
+    private void btnPercent_Click(object sender, RoutedEventArgs e)
+    {
+      double p = Double.Parse(txtResult.Text);
+      p = saved * p / 100;
+      txtResult.Text = p.ToString();
+      //txtExp.Text += txtResult.Text; 
+    }
+
+    // 제곱근
+    private void btnSqrt_Click(object sender, RoutedEventArgs e)
+    {
+      if(txtExp.Text == "")
+        txtExp.Text = "√(" + txtResult.Text + ")";
+      else
+        txtExp.Text = "√(" + txtExp.Text + ")";
+      txtResult.Text 
+        = (Math.Sqrt(double.Parse(txtResult.Text))).ToString(); 
+    }
+
+    // 제곱
+    private void btnSqr_Click(object sender, RoutedEventArgs e)
+    {
+      if (txtExp.Text == "")
+        txtExp.Text = "sqr(" + txtResult.Text + ")";
+      else
+        txtExp.Text = "sqr(" + txtExp.Text + ")";
+
+      double v = Double.Parse(txtResult.Text);
+      txtResult.Text= (v*v).ToString();
+    }
+
+    // 역수
+    private void btnRecip_Click(object sender, RoutedEventArgs e)
+    {
+      if (txtExp.Text == "")
+        txtExp.Text = "1/(" + txtResult.Text + ")";
+      else
+        txtExp.Text = "1/(" + txtExp.Text + ")";
+
+      double v = Double.Parse(txtResult.Text);
+      txtResult.Text = (1/v).ToString();
+    }
+
+    // CE
+    private void btnCE_Click(object sender, RoutedEventArgs e)
+    {
+      txtResult.Text = "0";
+    }
+
+    // C
+    private void btnC_Click(object sender, RoutedEventArgs e)
+    {
+      txtResult.Text = "0";
+      txtExp.Text = "";
+      saved = 0;
+      op = "";
+      opFlag = false;
+    }
+
+    // Delete 버튼
+    private void btnDelete_Click(object sender, RoutedEventArgs e)
+    {
+      txtResult.Text 
+        = txtResult.Text.Remove(txtResult.Text.Length - 1);
+      if (txtResult.Text.Length == 0)
+        txtResult.Text = "0";
     }
   }
 }

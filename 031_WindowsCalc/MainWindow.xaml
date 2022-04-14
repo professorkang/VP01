@@ -9,7 +9,7 @@
         MinHeight="500" MinWidth="300">
   <DockPanel>
     <!-- 수식창과 계산결과 -->
-    <Grid DockPanel.Dock="Top" Height="100">
+    <Grid DockPanel.Dock="Top" Height="100" Background="WhiteSmoke">
       <TextBox HorizontalContentAlignment="Right"
                x:Name="txtExp"
                Background="WhiteSmoke"
@@ -72,31 +72,38 @@
       <!--1번째 줄-->
       <Button Grid.Row="0" Grid.Column="0" 
               x:Name="btnPercent"
+              Click="btnPercent_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">%</Button>
       <Button Grid.Row="0" Grid.Column="1" 
               x:Name="btnSqrt"
+              Click="btnSqrt_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">√</Button>
       <Button Grid.Row="0" Grid.Column="2" 
               x:Name="btnSqr"
+              Click="btnSqr_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">x²</Button>
       <Button Grid.Row="0" Grid.Column="3" 
               x:Name="btnRecip"
+              Click="btnRecip_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">1/x</Button>
       <!-- 2번째 줄-->
       <Button Grid.Row="1" Grid.Column="0" 
               x:Name="btnCE"
+              Click="btnCE_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">CE</Button>
       <Button Grid.Row="1" Grid.Column="1" 
               x:Name="btnC"
+              Click="btnC_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">C</Button>
       <Button Grid.Row="1" Grid.Column="2" 
               x:Name="btnDelete"
+              Click="btnDelete_Click"
               Margin="1" FontSize="18" 
               BorderThickness="0">⌫</Button>
       <Button Grid.Row="1" Grid.Column="3" 
@@ -180,7 +187,8 @@
       <Button Grid.Row="5" Grid.Column="0" 
               x:Name="btnPlusMinus"
               Margin="1" FontSize="18" 
-              BorderThickness="0">±</Button>
+              BorderThickness="0"
+              Click="btnPlusMinus_Click">±</Button>
       <Button Grid.Row="5" Grid.Column="1" 
               x:Name="btn0"
               Click="btn_Click"
