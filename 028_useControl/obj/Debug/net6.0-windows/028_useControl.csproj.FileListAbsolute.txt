@@ -19,3 +19,24 @@ C:\Users\807PC02\source\repos\VP01\028_useControl\obj\Debug\net6.0-windows\refin
 C:\Users\807PC02\source\repos\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.pdb
 C:\Users\807PC02\source\repos\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.genruntimeconfig.cache
 C:\Users\807PC02\source\repos\VP01\028_useControl\obj\Debug\net6.0-windows\ref\028_useControl.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\bin\Debug\net6.0-windows\028_useControl.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\bin\Debug\net6.0-windows\028_useControl.deps.json
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\bin\Debug\net6.0-windows\028_useControl.runtimeconfig.json
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\bin\Debug\net6.0-windows\028_useControl.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\bin\Debug\net6.0-windows\ref\028_useControl.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\bin\Debug\net6.0-windows\028_useControl.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl_MarkupCompile.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl_MarkupCompile.lref
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.g.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.AssemblyInfoInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.AssemblyInfo.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\ref\028_useControl.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\028_useControl\obj\Debug\net6.0-windows\028_useControl.genruntimeconfig.cache

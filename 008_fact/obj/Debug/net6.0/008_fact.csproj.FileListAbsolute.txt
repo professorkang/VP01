@@ -13,3 +13,11 @@ C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\refint\008_fact.dll
 C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.pdb
 C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\008_fact.genruntimeconfig.cache
 C:\Users\807PC02\source\repos\VP01\008_fact\obj\Debug\net6.0\ref\008_fact.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.AssemblyInfoInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.AssemblyInfo.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\ref\008_fact.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\008_fact\obj\Debug\net6.0\008_fact.pdb

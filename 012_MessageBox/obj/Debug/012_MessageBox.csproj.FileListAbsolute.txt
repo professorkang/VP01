@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\012_MessageBox\obj\Debug\012_MessageBox.cspro
 C:\Users\807PC02\source\repos\VP01\012_MessageBox\obj\Debug\012_MessageBox.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\012_MessageBox\obj\Debug\012_MessageBox.exe
 C:\Users\807PC02\source\repos\VP01\012_MessageBox\obj\Debug\012_MessageBox.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\bin\Debug\012_MessageBox.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\bin\Debug\012_MessageBox.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\bin\Debug\012_MessageBox.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\012_MessageBox.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\_012_MessageBox.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\_012_MessageBox.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\012_MessageBox.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\012_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\012_MessageBox.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\012_MessageBox\obj\Debug\012_MessageBox.pdb

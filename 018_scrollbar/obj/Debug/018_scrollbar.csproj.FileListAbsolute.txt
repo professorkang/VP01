@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.
 C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.exe
 C:\Users\807PC02\source\repos\VP01\018_scrollbar\obj\Debug\018_scrollbar.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\bin\Debug\018_scrollbar.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\bin\Debug\018_scrollbar.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\bin\Debug\018_scrollbar.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\_018_scrollbar.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\_018_scrollbar.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\018_scrollbar.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\018_scrollbar.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\018_scrollbar\obj\Debug\018_scrollbar.pdb

@@ -19,3 +19,24 @@ C:\Users\807PC02\source\repos\VP01\025_grid\obj\Debug\net6.0-windows\refint\025_
 C:\Users\807PC02\source\repos\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.pdb
 C:\Users\807PC02\source\repos\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.genruntimeconfig.cache
 C:\Users\807PC02\source\repos\VP01\025_grid\obj\Debug\net6.0-windows\ref\025_grid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\bin\Debug\net6.0-windows\025_grid.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\bin\Debug\net6.0-windows\025_grid.deps.json
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\bin\Debug\net6.0-windows\025_grid.runtimeconfig.json
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\bin\Debug\net6.0-windows\025_grid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\bin\Debug\net6.0-windows\ref\025_grid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\bin\Debug\net6.0-windows\025_grid.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid_MarkupCompile.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid_MarkupCompile.lref
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.g.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.AssemblyInfoInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.AssemblyInfo.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\ref\025_grid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\025_grid\obj\Debug\net6.0-windows\025_grid.genruntimeconfig.cache

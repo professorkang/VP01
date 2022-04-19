@@ -11,3 +11,15 @@ C:\Users\807PC02\source\repos\VP01\23_datetimePicker\obj\Debug\023_datetimePicke
 C:\Users\807PC02\source\repos\VP01\23_datetimePicker\obj\Debug\023_datetimePicker.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\23_datetimePicker\obj\Debug\23_datetimePicker.exe
 C:\Users\807PC02\source\repos\VP01\23_datetimePicker\obj\Debug\23_datetimePicker.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\bin\Debug\23_datetimePicker.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\bin\Debug\23_datetimePicker.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\bin\Debug\23_datetimePicker.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\023_datetimePicker.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\Interop.WMPLib.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\023_datetimePicker.csproj.ResolveComReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\_23_datetimePicker.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\_23_datetimePicker.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\023_datetimePicker.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\023_datetimePicker.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\23_datetimePicker.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\23_datetimePicker\obj\Debug\23_datetimePicker.pdb

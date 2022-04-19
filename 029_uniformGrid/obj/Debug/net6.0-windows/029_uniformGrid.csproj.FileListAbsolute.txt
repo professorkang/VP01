@@ -19,3 +19,24 @@ C:\Users\807PC02\source\repos\VP01\029_uniformGrid\obj\Debug\net6.0-windows\refi
 C:\Users\807PC02\source\repos\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.pdb
 C:\Users\807PC02\source\repos\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.genruntimeconfig.cache
 C:\Users\807PC02\source\repos\VP01\029_uniformGrid\obj\Debug\net6.0-windows\ref\029_uniformGrid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\bin\Debug\net6.0-windows\029_uniformGrid.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\bin\Debug\net6.0-windows\029_uniformGrid.deps.json
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\bin\Debug\net6.0-windows\029_uniformGrid.runtimeconfig.json
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\bin\Debug\net6.0-windows\029_uniformGrid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\bin\Debug\net6.0-windows\ref\029_uniformGrid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\bin\Debug\net6.0-windows\029_uniformGrid.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid_MarkupCompile.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid_MarkupCompile.lref
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.g.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.AssemblyInfoInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.AssemblyInfo.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\ref\029_uniformGrid.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\029_uniformGrid\obj\Debug\net6.0-windows\029_uniformGrid.genruntimeconfig.cache

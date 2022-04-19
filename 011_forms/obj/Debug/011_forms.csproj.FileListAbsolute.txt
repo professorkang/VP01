@@ -10,3 +10,14 @@ C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.csproj.Generate
 C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.exe
 C:\Users\807PC02\source\repos\VP01\011_forms\obj\Debug\011_forms.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\bin\Debug\011_forms.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\bin\Debug\011_forms.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\bin\Debug\011_forms.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\011_forms.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\_011_forms.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\_011_forms.Form2.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\_011_forms.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\011_forms.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\011_forms.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\011_forms.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\011_forms\obj\Debug\011_forms.pdb

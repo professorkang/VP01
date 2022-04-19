@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\014_Labels\obj\Debug\014_Labels.csproj.Genera
 C:\Users\807PC02\source\repos\VP01\014_Labels\obj\Debug\014_Labels.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\014_Labels\obj\Debug\014_Labels.exe
 C:\Users\807PC02\source\repos\VP01\014_Labels\obj\Debug\014_Labels.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\bin\Debug\014_Labels.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\bin\Debug\014_Labels.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\bin\Debug\014_Labels.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\014_Labels.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\_014_Labels.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\_014_Labels.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\014_Labels.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\014_Labels.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\014_Labels.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\014_Labels\obj\Debug\014_Labels.pdb

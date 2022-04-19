@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\003_bmi\obj\Debug\003_bmi.csproj.CoreCompileI
 C:\Users\807PC02\source\repos\VP01\003_bmi\obj\Debug\003_bmi.exe
 C:\Users\807PC02\source\repos\VP01\003_bmi\obj\Debug\003_bmi.pdb
 C:\Users\807PC02\source\repos\VP01\003_bmi\obj\Debug\_003_bmi.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\bin\Debug\003_bmi.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\bin\Debug\003_bmi.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\bin\Debug\003_bmi.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\003_bmi.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\_003_bmi.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\_003_bmi.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\003_bmi.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\003_bmi.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\003_bmi.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\003_bmi\obj\Debug\003_bmi.pdb

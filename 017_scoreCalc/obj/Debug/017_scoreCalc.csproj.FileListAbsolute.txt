@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.
 C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.exe
 C:\Users\807PC02\source\repos\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\bin\Debug\017_scoreCalc.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\bin\Debug\017_scoreCalc.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\bin\Debug\017_scoreCalc.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\_017_scoreCalc.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\_017_scoreCalc.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\017_scoreCalc\obj\Debug\017_scoreCalc.pdb

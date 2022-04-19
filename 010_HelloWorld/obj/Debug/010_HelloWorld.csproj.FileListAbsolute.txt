@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.cspro
 C:\Users\807PC02\source\repos\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.exe
 C:\Users\807PC02\source\repos\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.pdb
 C:\Users\807PC02\source\repos\VP01\010_HelloWorld\obj\Debug\_010_HelloWorld.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\bin\Debug\010_HelloWorld.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\bin\Debug\010_HelloWorld.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\bin\Debug\010_HelloWorld.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\_010_HelloWorld.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\_010_HelloWorld.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\010_HelloWorld\obj\Debug\010_HelloWorld.pdb
