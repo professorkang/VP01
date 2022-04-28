@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\022_timer\obj\Debug\022_timer.csproj.Generate
 C:\Users\807PC02\source\repos\VP01\022_timer\obj\Debug\022_timer.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\022_timer\obj\Debug\022_timer.exe
 C:\Users\807PC02\source\repos\VP01\022_timer\obj\Debug\022_timer.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\bin\Debug\022_timer.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\bin\Debug\022_timer.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\bin\Debug\022_timer.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\022_timer.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\_022_timer.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\_022_timer.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\022_timer.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\022_timer.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\022_timer.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\022_timer\obj\Debug\022_timer.pdb

@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+// 단항연산자 계산 후 처리
+// 이항연산자 계산 후 단항연산자 눌렀을때 txtExp 수정해야 함(txtExp 맨 뒤가 = 이면 지운다)
 namespace _031_WindowsCalc
 {
   /// <summary>
@@ -23,9 +25,10 @@ namespace _031_WindowsCalc
     private bool opFlag = false;
     private bool memFlag = false;
     private double saved;
-    private string op;  // + - * /
+    private string op = String.Empty;  // + - * /
     private bool afterCalc;
     private double memory;
+    private bool unaryFlag;
 
     public MainWindow()
     {
@@ -36,19 +39,23 @@ namespace _031_WindowsCalc
 
     private void btn_Click(object sender, RoutedEventArgs e)
     {
-      Button btn = (Button)sender;  // sender as Button
+      Button btn = sender as Button;
       string s = btn.Content.ToString();
 
       // 출력창이 0이거나 연산자 버튼이 눌린 후, 메모리 버튼이 눌린 후에
       if (txtResult.Text == "0" || opFlag == true ||
-        afterCalc == true || memFlag == true)
+        afterCalc == true || memFlag == true || unaryFlag == true)
       {
         if (afterCalc == true)
           txtExp.Text = "";
+        if( unaryFlag == true)
+          txtExp.Text = "";
+
         txtResult.Text = s;
         opFlag = false;
         memFlag = false;
         afterCalc = false;
+        unaryFlag = false;
       }
       else
         txtResult.Text += s;
@@ -115,12 +122,13 @@ namespace _031_WindowsCalc
     // 제곱근
     private void btnSqrt_Click(object sender, RoutedEventArgs e)
     {
-      if(txtExp.Text == "")
+      if(txtExp.Text == "" || txtExp.Text.Contains("="))
         txtExp.Text = "√(" + txtResult.Text + ")";
       else
         txtExp.Text = "√(" + txtExp.Text + ")";
       txtResult.Text 
-        = (Math.Sqrt(double.Parse(txtResult.Text))).ToString(); 
+        = (Math.Sqrt(double.Parse(txtResult.Text))).ToString();
+      unaryFlag = true;
     }
 
     // 제곱
@@ -133,6 +141,7 @@ namespace _031_WindowsCalc
 
       double v = Double.Parse(txtResult.Text);
       txtResult.Text= (v*v).ToString();
+      unaryFlag = true;
     }
 
     // 역수
@@ -145,6 +154,7 @@ namespace _031_WindowsCalc
 
       double v = Double.Parse(txtResult.Text);
       txtResult.Text = (1/v).ToString();
+      unaryFlag = true;
     }
 
     // CE

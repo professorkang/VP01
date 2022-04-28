@@ -13,3 +13,11 @@ C:\Users\807PC02\source\repos\VP01\009_hanoi\obj\Debug\net6.0\refint\009_hanoi.d
 C:\Users\807PC02\source\repos\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.pdb
 C:\Users\807PC02\source\repos\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.genruntimeconfig.cache
 C:\Users\807PC02\source\repos\VP01\009_hanoi\obj\Debug\net6.0\ref\009_hanoi.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.AssemblyInfoInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.AssemblyInfo.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\ref\009_hanoi.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\009_hanoi\obj\Debug\net6.0\009_hanoi.pdb

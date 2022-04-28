@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\807PC02\\source\\repos\\VP01\\007_larger\\007_larger.csproj": {}
+    "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP01\\007_larger\\007_larger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\807PC02\\source\\repos\\VP01\\007_larger\\007_larger.csproj": {
+    "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP01\\007_larger\\007_larger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\807PC02\\source\\repos\\VP01\\007_larger\\007_larger.csproj",
+        "projectUniqueName": "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP01\\007_larger\\007_larger.csproj",
         "projectName": "007_larger",
-        "projectPath": "C:\\Users\\807PC02\\source\\repos\\VP01\\007_larger\\007_larger.csproj",
-        "packagesPath": "C:\\Users\\807PC02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\807PC02\\source\\repos\\VP01\\007_larger\\obj\\",
+        "projectPath": "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP01\\007_larger\\007_larger.csproj",
+        "packagesPath": "C:\\Users\\konyang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP01\\007_larger\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\807PC02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\konyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

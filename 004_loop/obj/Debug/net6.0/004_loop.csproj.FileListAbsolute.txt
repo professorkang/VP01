@@ -13,3 +13,11 @@ C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\refint\004_loop.dll
 C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.pdb
 C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\004_loop.genruntimeconfig.cache
 C:\Users\807PC02\source\repos\VP01\004_loop\obj\Debug\net6.0\ref\004_loop.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.AssemblyInfoInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.AssemblyInfo.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\ref\004_loop.dll
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\004_loop\obj\Debug\net6.0\004_loop.pdb

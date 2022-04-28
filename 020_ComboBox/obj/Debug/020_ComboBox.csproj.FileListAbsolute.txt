@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\020_ComboBox\obj\Debug\020_ComboBox.csproj.Ge
 C:\Users\807PC02\source\repos\VP01\020_ComboBox\obj\Debug\020_ComboBox.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\020_ComboBox\obj\Debug\020_ComboBox.exe
 C:\Users\807PC02\source\repos\VP01\020_ComboBox\obj\Debug\020_ComboBox.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\bin\Debug\020_ComboBox.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\bin\Debug\020_ComboBox.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\bin\Debug\020_ComboBox.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\020_ComboBox.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\_020_ComboBox.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\_020_ComboBox.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\020_ComboBox.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\020_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\020_ComboBox.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\020_ComboBox\obj\Debug\020_ComboBox.pdb

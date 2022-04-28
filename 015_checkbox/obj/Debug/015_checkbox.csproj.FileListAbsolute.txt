@@ -9,3 +9,13 @@ C:\Users\807PC02\source\repos\VP01\015_checkbox\obj\Debug\015_checkbox.csproj.Ge
 C:\Users\807PC02\source\repos\VP01\015_checkbox\obj\Debug\015_checkbox.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP01\015_checkbox\obj\Debug\015_checkbox.exe
 C:\Users\807PC02\source\repos\VP01\015_checkbox\obj\Debug\015_checkbox.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\bin\Debug\015_checkbox.exe.config
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\bin\Debug\015_checkbox.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\bin\Debug\015_checkbox.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\015_checkbox.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\_015_checkbox.Form1.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\_015_checkbox.Properties.Resources.resources
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\015_checkbox.csproj.GenerateResource.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\015_checkbox.csproj.CoreCompileInputs.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\015_checkbox.exe
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP01\015_checkbox\obj\Debug\015_checkbox.pdb
