@@ -55,6 +55,7 @@
       this.lstStudent.Name = "lstStudent";
       this.lstStudent.Size = new System.Drawing.Size(374, 184);
       this.lstStudent.TabIndex = 0;
+      this.lstStudent.SelectedIndexChanged += new System.EventHandler(this.lstStudent_SelectedIndexChanged);
       // 
       // label1
       // 
@@ -147,6 +148,7 @@
       this.btnAdd.TabIndex = 10;
       this.btnAdd.Text = "추가";
       this.btnAdd.UseVisualStyleBackColor = true;
+      this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
       // 
       // btnSearch
       // 
@@ -197,6 +199,7 @@
       this.btnDelete.TabIndex = 13;
       this.btnDelete.Text = "삭제";
       this.btnDelete.UseVisualStyleBackColor = true;
+      this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
       // 
       // Form1
       // 
