@@ -186,5 +186,18 @@ namespace _033_PhoneBook
         MessageBox.Show("수정 성공!");
       connClose();
     }
+
+    private void btnClear_Click(object sender, EventArgs e)
+    {
+      txtID.Text = "";
+      txtSId.Text = "";
+      txtSName.Text = "";
+      txtPhone.Text = "";
+    }
+
+    private void btnExit_Click(object sender, EventArgs e)
+    {
+      this.Close();
+    }
   }
 }

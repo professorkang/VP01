@@ -171,6 +171,7 @@
       this.btnClear.TabIndex = 12;
       this.btnClear.Text = "Clear";
       this.btnClear.UseVisualStyleBackColor = true;
+      this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
       // 
       // btnExit
       // 
@@ -181,6 +182,7 @@
       this.btnExit.TabIndex = 15;
       this.btnExit.Text = "종료";
       this.btnExit.UseVisualStyleBackColor = true;
+      this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
       // 
       // btnUpdate
       // 
