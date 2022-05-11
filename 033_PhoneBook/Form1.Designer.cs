@@ -138,6 +138,7 @@
       this.btnAll.TabIndex = 9;
       this.btnAll.Text = "View All";
       this.btnAll.UseVisualStyleBackColor = true;
+      this.btnAll.Click += new System.EventHandler(this.btnAll_Click);
       // 
       // btnAdd
       // 
@@ -159,6 +160,7 @@
       this.btnSearch.TabIndex = 11;
       this.btnSearch.Text = "검색";
       this.btnSearch.UseVisualStyleBackColor = true;
+      this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
       // 
       // btnClear
       // 
@@ -189,6 +191,7 @@
       this.btnUpdate.TabIndex = 14;
       this.btnUpdate.Text = "수정";
       this.btnUpdate.UseVisualStyleBackColor = true;
+      this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
       // 
       // btnDelete
       // 

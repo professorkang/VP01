@@ -122,5 +122,69 @@ namespace _033_PhoneBook
       connClose();
 
     }
+
+    // 검색
+    private void btnSearch_Click(object sender, EventArgs e)
+    {
+      if (txtSId.Text == "" &&
+        txtSName.Text == "" &&
+        txtPhone.Text == "")
+        return;
+
+      connOpen();
+
+      string sql = string.Format("SELECT * FROM StudentTable WHERE ");
+      if (txtSId.Text != "")
+        sql += "SId = " + txtSId.Text;
+      else if(txtSName.Text != "")
+        sql += "SName = '" + txtSName.Text + "'";
+      else if(txtPhone.Text != "")
+        sql += "Phone = '" + txtPhone.Text + "'";
+
+      comm = new OleDbCommand(sql, conn);
+      MessageBox.Show(sql);
+
+      // 리스트박스를 지워주고
+      lstStudent.Items.Clear();
+
+      // DisplayStudent() 에서 복사해 온 부분
+      reader = comm.ExecuteReader();
+      while (reader.Read())
+      {
+        string x = "";
+        x += reader["ID"] + "\t";
+        x += reader["SId"] + "\t";
+        x += reader["SName"] + "\t";
+        x += reader["Phone"];
+        lstStudent.Items.Add(x);
+      }
+      reader.Close();
+
+      conn.Close();
+      conn = null;
+    }
+
+    // ViewAll 버튼
+    private void btnAll_Click(object sender, EventArgs e)
+    {
+      lstStudent.Items.Clear(); 
+      DisplayStudents();
+    }
+
+    // 수정
+    private void btnUpdate_Click(object sender, EventArgs e)
+    {
+      connOpen();
+
+      string sql = string.Format("UPDATE StudentTable SET " 
+        + "SId={0}, SName='{1}', Phone='{2}' WHERE ID={3}",
+        txtSId.Text, txtSName.Text, txtPhone.Text, txtID.Text);
+
+      comm = new OleDbCommand(sql, conn);
+      int x = comm.ExecuteNonQuery();
+      if (x == 1)
+        MessageBox.Show("수정 성공!");
+      connClose();
+    }
   }
 }
